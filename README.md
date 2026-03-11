@@ -1,6 +1,6 @@
 # AI Agents Final Project
 
-Final project for **COSC 89.34 – AI Agents** at Dartmouth College.
+Final project for **COSC 89.34 – AI Agents** 
 
 ## Team
 - Alexander Almanza
@@ -27,7 +27,7 @@ AIAGENT_FINAL_PROJECT
 ├── world_model_alignment/
 │   Dreamer-style world model experiments on MineRL
 │
-└── alex_multiwalker_experiment/
+└── world_models_ad_hoc_teamwork/
     Convention detection and ad hoc teamwork experiments
 ```
 ## Part 1: World Model Alignment
@@ -59,7 +59,7 @@ This shows that shared experience makes learned dynamics models substantially mo
 
 ## Part 2: Convention Detection in Ad Hoc Teamwork
 
-The `alex_multiwalker_experiment/` folder contains experiments studying whether world models implicitly encode partner conventions in a cooperative multi-agent setting.
+The `world_models_ad_hoc_teamwork/` folder contains experiments studying whether world models implicitly encode partner conventions in a cooperative multi-agent setting.
 
 The main idea is that independently trained populations often develop different coordination conventions. A world model trained on trajectory data may capture those differences, allowing an agent to identify which kind of partner it is interacting with.
 
@@ -81,7 +81,7 @@ A further result is that simply planning directly with aligned world models does
 These two folders study different aspects of the same big idea.
 
 - `world_model_alignment/` shows that shared experience controls predictive compatibility
-- `alex_multiwalker_experiment/` shows that world models can encode socially meaningful structure such as partner conventions
+- `world_models_ad_hoc_teamwork/` shows that world models can encode socially meaningful structure such as partner conventions
 
 Taken together, the repository argues that world models matter in multi-agent systems not just because they predict the environment, but because they shape how agents relate to one another in cooperative settings.
 
