@@ -1,31 +1,138 @@
 # World Model Alignment
 
-This folder contains the experiments studying whether coordination-relevant predictive consistency depends on **alignment between learned world models**. The central question is whether two agents need only individually useful predictive models, or whether they also benefit from having internal models that agree with each other about how the environment evolves.
+This folder contains experiments studying whether **alignment between learned world models** affects predictive consistency between agents.
 
-The experiments use Dreamer-style recurrent state-space world models trained on the MineRL ObtainDiamond dataset. Each model is trained to predict future observations, rewards, and continuation signals from sequences of states and actions. To control alignment, the experiments introduce a training-overlap parameter `alpha`. When `alpha = 1`, the two models are trained on identical trajectory data. When `alpha = 0`, they are trained on disjoint trajectory data. Intermediate values correspond to partial overlap. This creates a clean experimental manipulation of how much shared experience the two models receive.
+## Core Question
 
-Alignment is measured through **rollout disagreement**. Starting from the same real initial state and applying the same action sequence, both models simulate the future for a fixed rollout horizon `H`. Disagreement is defined as the mean squared error between the two predicted states after `H` steps. In this setup, higher disagreement means the models imagine different futures even under identical conditions.
+If two agents use learned dynamics models, is it enough that each model is useful on its own?
 
-The main finding is that increased overlap between training data substantially reduces predictive disagreement between world models. This effect is consistent across rollout horizons. When there is no shared training data, disagreement is 0.280 at horizon 1, 0.401 at horizon 5, 0.410 at horizon 10, and 0.420 at horizon 20. When the models are trained on identical data, disagreement drops to 0.142, 0.239, 0.252, and 0.265 at the same horizons. These correspond to reductions of 49%, 40%, 38%, and 37%, respectively. The pattern also shows that disagreement grows with horizon, reflecting the way small predictive differences compound over multi-step simulation. :contentReference[oaicite:4]{index=4}
+Or do the models also need to **agree with each other** about how the environment evolves?
 
-The experiments also separate disagreement on milestone transitions from disagreement on ordinary background transitions. Milestones are timesteps with positive reward and correspond to important task events such as collecting resources or crafting progress. The results show that most divergence arises from modeling general environment dynamics rather than major reward events. At horizon 10, milestone disagreement falls from 0.094 to 0.071 when moving from `alpha = 0` to `alpha = 1`, while background disagreement falls much more sharply from 0.410 to 0.253. This indicates that world-model misalignment is primarily expressed in the dense, ordinary parts of the trajectory rather than in sparse high-level events. :contentReference[oaicite:5]{index=5}
+---
 
-A coordination-proxy analysis is also included. In this analysis, each model uses its internal predictions to evaluate candidate actions, and the experiment measures how often both models choose the same action. This signal is much noisier than predictive disagreement and does not produce a clean monotonic alignment effect. The interpretation is that planning decisions amplify small predictive differences, making action-level agreement unstable. For this reason, predictive disagreement is treated as the stronger and more reliable measure of alignment in this project.
+## Setup
 
-Finally, the folder includes an alignment-repair experiment. A misaligned model is fine-tuned on small amounts of shared calibration data to test whether predictive compatibility can be restored. The results show partial recovery: disagreement falls from 0.410 with no shared calibration data to 0.392 with 2,000 shared sequences and to 0.383 with 5,000 shared sequences, with performance plateauing around 10,000 sequences. This suggests that alignment is not fixed after independent training and can be partially repaired through shared experience. :contentReference[oaicite:6]{index=6}
+We train **two Dreamer-style world models** on the **MineRL ObtainDiamond** dataset.
 
-Overall, the experiments in this folder support the conclusion that world-model alignment strongly affects predictive consistency. Shared training experience produces more compatible internal dynamics models, disagreement grows over longer horizons when alignment is weak, and small amounts of shared data can partially repair misalignment. The broader implication is that coordination between AI agents may depend not only on the quality of each agent’s model in isolation, but also on whether different agents maintain compatible predictive representations of the environment.
+Each model predicts:
+- next observation
+- reward
+- continuation / termination
 
-The notebooks in this folder are organized as a pipeline: dataset exploration, sequence construction, baseline and Dreamer-style model training, overlap-conditioned alignment sweeps, rollout disagreement evaluation, coordination-proxy analysis, repair experiments, and final plot generation. Together they document the full experimental design and reproduce the results reported in the project writeup.
+To control alignment, we vary how much training data the two models share.
 
-## Main notebooks
+### Overlap parameter
 
-- `01_dataset_exploration.ipynb`
-- `02_sequence_dataset_builder.ipynb`
-- `03_train_baseline_world_model.ipynb`
-- `04_train_rssm_dreamer_world_model.ipynb`
-- `05_alignment_experiment_sweep.ipynb`
-- `06_rollout_evaluation.ipynb`
-- `07_coordination_proxy_analysis.ipynb`
-- `08_alignment_repair_experiment.ipynb`
-- `09_generate_plots_and_tables.ipynb`
+- `alpha = 0` → completely different training trajectories
+- `alpha = 1` → identical training trajectories
+- `alpha = 0.25, 0.5, 0.75` → partial overlap
+
+Higher `alpha` means the two models are trained on more similar experience.
+
+---
+
+## Metric
+
+We measure **predictive disagreement**.
+
+Procedure:
+1. start from the same real state
+2. apply the same action sequence
+3. let both models simulate the future
+4. compare their predicted states
+
+Disagreement is the MSE between the two predicted states after horizon `H`.
+
+### Rollout horizons
+
+- `H = 1`
+- `H = 5`
+- `H = 10`
+- `H = 20`
+
+Longer horizons are harder because prediction errors compound over time.
+
+---
+
+## Main Results
+
+Shared training experience strongly reduces disagreement.
+
+| Horizon | alpha = 0 | alpha = 1 | Reduction |
+|--------|-----------|-----------|-----------|
+| 1      | 0.280     | 0.142     | 49%       |
+| 5      | 0.401     | 0.239     | 40%       |
+| 10     | 0.410     | 0.252     | 38%       |
+| 20     | 0.420     | 0.265     | 37%       |
+
+### Interpretation
+
+- More overlap → more aligned world models
+- More aligned models → less predictive divergence
+- Disagreement grows with horizon, but alignment reduces it consistently
+
+---
+
+## Milestone vs Background Analysis
+
+We also separate disagreement into:
+
+- **milestone transitions**: important reward-bearing events
+- **background transitions**: ordinary environment dynamics
+
+At horizon 10:
+
+- milestone disagreement: `0.094 → 0.071`
+- background disagreement: `0.410 → 0.253`
+
+Most disagreement comes from ordinary background dynamics rather than major task events.
+
+---
+
+## Coordination Proxy
+
+We also test a simple planning-based coordination proxy:
+- each model evaluates candidate actions
+- we measure how often both models choose the same action
+
+This signal is noisy and less reliable than predictive disagreement, so the main conclusion of this folder is based on rollout disagreement.
+
+---
+
+## Repair Experiment
+
+We test whether misalignment can be repaired by fine-tuning one model on small amounts of shared data.
+
+| Shared sequences | Disagreement |
+|------------------|--------------|
+| 0                | 0.410        |
+| 2000             | 0.392        |
+| 5000             | 0.383        |
+| 10000            | 0.385        |
+
+This shows that alignment can be **partially recovered** through shared experience.
+
+---
+
+## Main Takeaways
+
+- Training overlap strongly affects world-model alignment
+- Alignment strongly affects predictive agreement
+- Misalignment becomes worse over longer rollout horizons
+- Shared calibration data can partially repair misalignment
+
+---
+
+## Notebook Order
+
+Run notebooks in this order:
+
+1. `01_dataset_exploration.ipynb`
+2. `02_sequence_dataset_builder.ipynb`
+3. `03_train_baseline_world_model.ipynb`
+4. `04_train_rssm_dreamer_world_model.ipynb`
+5. `05_alignment_experiment_sweep.ipynb`
+6. `06_rollout_evaluation.ipynb`
+7. `07_coordination_proxy_analysis.ipynb`
+8. `08_alignment_repair_experiment.ipynb`
+9. `09_generate_plots_and_tables.ipynb`
