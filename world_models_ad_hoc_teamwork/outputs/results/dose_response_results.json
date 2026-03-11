@@ -1,0 +1,1210 @@
+{
+  "dose_alpha_0.00": [
+    {
+      "forward_velocity": 0.08582636830425945,
+      "gait_smoothness": 0.44956644498772286,
+      "episode_return": -121.16486400866293,
+      "control_cost": 208.60967849209402,
+      "torque_balance": 1.0054527565167164,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.2567767940311832,
+      "gait_smoothness": 0.712748833564092,
+      "episode_return": 49.39918063515922,
+      "control_cost": 209.53956430605595,
+      "torque_balance": 1.0172532247532853,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.03395079511626823,
+      "gait_smoothness": 0.3310169895594726,
+      "episode_return": -180.37575758967708,
+      "control_cost": 215.8908046769914,
+      "torque_balance": 1.0041903457332406,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.2909639052620653,
+      "gait_smoothness": 0.653688684770219,
+      "episode_return": 85.36213083314301,
+      "control_cost": 205.5469296355527,
+      "torque_balance": 0.9950854149769567,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.10947204012931226,
+      "gait_smoothness": 0.589285297322893,
+      "episode_return": -101.83348929759661,
+      "control_cost": 211.82087672330204,
+      "torque_balance": 1.022677060008533,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.0923811873460868,
+      "gait_smoothness": 0.44705803483291745,
+      "episode_return": -113.57242452782017,
+      "control_cost": 205.20564856775616,
+      "torque_balance": 1.0072203026396396,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.34159585949245774,
+      "gait_smoothness": 0.6977898481036791,
+      "episode_return": 130.28873493802092,
+      "control_cost": 212.10683125366515,
+      "torque_balance": 1.00674576345363,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.18286134641490243,
+      "gait_smoothness": 0.5723993944613698,
+      "episode_return": -25.02754128704464,
+      "control_cost": 207.31304403493908,
+      "torque_balance": 1.033141070890647,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.06487311509174169,
+      "gait_smoothness": 0.6639654968336858,
+      "episode_return": -148.04099681861504,
+      "control_cost": 216.85162460291176,
+      "torque_balance": 0.9738934899600158,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.07634059586399528,
+      "gait_smoothness": 0.4173870449895555,
+      "episode_return": -133.8454918911123,
+      "control_cost": 209.55672799601714,
+      "torque_balance": 1.0120957508373427,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.5158830014545097,
+      "gait_smoothness": 0.8020211949037664,
+      "episode_return": 311.0000978613565,
+      "control_cost": 204.6154120148234,
+      "torque_balance": 0.9895260465256082,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.008532210212881183,
+      "gait_smoothness": 0.32248730942863046,
+      "episode_return": -203.9401240656139,
+      "control_cost": 213.47033955037944,
+      "torque_balance": 1.000641689181538,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.48665297873317853,
+      "gait_smoothness": 0.8367053817307704,
+      "episode_return": 274.3309400210314,
+      "control_cost": 213.21621317400653,
+      "torque_balance": 0.9967901522722354,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.198348121414371,
+      "gait_smoothness": 0.6051867386854403,
+      "episode_return": -16.976299241282995,
+      "control_cost": 214.80556938689426,
+      "torque_balance": 1.0117579582432303,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.3629351434026524,
+      "gait_smoothness": 0.7593798891486424,
+      "episode_return": 154.51973078446244,
+      "control_cost": 210.9226714368247,
+      "torque_balance": 1.0188171358227236,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.1566638287595498,
+      "gait_smoothness": 0.6345325021296698,
+      "episode_return": -51.579282247225194,
+      "control_cost": 208.3523814786238,
+      "torque_balance": 0.9649377725494899,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.02028631513756396,
+      "gait_smoothness": 0.3110141685193742,
+      "episode_return": -186.70611839997878,
+      "control_cost": 206.6568598750717,
+      "torque_balance": 1.0035344289002144,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.40908311573794676,
+      "gait_smoothness": 0.7441439620915908,
+      "episode_return": 202.93620490208983,
+      "control_cost": 206.16945613942215,
+      "torque_balance": 1.0164624159293594,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.47301587726746447,
+      "gait_smoothness": 0.8131920208811574,
+      "episode_return": 258.1146223610615,
+      "control_cost": 212.68348279102324,
+      "torque_balance": 1.0072481210231334,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.3454496799717815,
+      "gait_smoothness": 0.7405957518275229,
+      "episode_return": 135.72391567713973,
+      "control_cost": 208.57577698911177,
+      "torque_balance": 1.018921854808099,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.4931703386989467,
+      "gait_smoothness": 0.821145772025356,
+      "episode_return": 281.341623135132,
+      "control_cost": 210.53927582268417,
+      "torque_balance": 0.9986856396605919,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.1629287430252582,
+      "gait_smoothness": 0.6213093234500301,
+      "episode_return": -45.1234460974329,
+      "control_cost": 208.97582747418406,
+      "torque_balance": 1.0009993400633042,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.4351672673838768,
+      "gait_smoothness": 0.8070105467418843,
+      "episode_return": 227.45746922789573,
+      "control_cost": 208.22434864205061,
+      "torque_balance": 1.0000253049115597,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.37519244465975066,
+      "gait_smoothness": 0.8724830668626167,
+      "episode_return": 152.1350100199947,
+      "control_cost": 220.36559345285806,
+      "torque_balance": 0.9627114480130808,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.4315923153770552,
+      "gait_smoothness": 0.8334828555271357,
+      "episode_return": 216.43263382718396,
+      "control_cost": 213.110490925953,
+      "torque_balance": 0.9690702889016501,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.3087492385547303,
+      "gait_smoothness": 0.6490658811910094,
+      "episode_return": 102.20214394491887,
+      "control_cost": 205.124784877405,
+      "torque_balance": 0.9735915330417645,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.17677419338548872,
+      "gait_smoothness": 0.6093113220036309,
+      "episode_return": -37.861437510173836,
+      "control_cost": 215.86218043225122,
+      "torque_balance": 0.9807471088453034,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.20792538869251473,
+      "gait_smoothness": 0.7426926641526275,
+      "episode_return": -5.145537265590902,
+      "control_cost": 215.1759031270823,
+      "torque_balance": 0.9750678934216214,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.06692164724807899,
+      "gait_smoothness": 0.3958874982471678,
+      "episode_return": -150.41802078591226,
+      "control_cost": 217.24508252392744,
+      "torque_balance": 0.9815642711770337,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "dose_alpha_0.00"
+    },
+    {
+      "forward_velocity": 0.16629946146006994,
+      "gait_smoothness": 0.6717554806207872,
+      "episode_return": -46.5493888501605,
+      "control_cost": 212.56193210179313,
+      "torque_balance": 1.0247543569961244,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "dose_alpha_0.00"
+    }
+  ],
+  "dose_alpha_0.25": [
+    {
+      "forward_velocity": 0.3406542060985757,
+      "gait_smoothness": 0.4619660387983538,
+      "episode_return": 115.0988804623566,
+      "control_cost": 223.85654363009934,
+      "torque_balance": 0.4525043860083739,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.295633237763022,
+      "gait_smoothness": 0.43795432670701007,
+      "episode_return": 72.07518797427912,
+      "control_cost": 220.9574494302845,
+      "torque_balance": 0.45410907728339106,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.2842183479000634,
+      "gait_smoothness": 0.45943540035074404,
+      "episode_return": 58.1490801784385,
+      "control_cost": 223.94013703690558,
+      "torque_balance": 0.4570705823540237,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.340689279246493,
+      "gait_smoothness": 0.4618792454527892,
+      "episode_return": 116.05402838171361,
+      "control_cost": 222.35597936862123,
+      "torque_balance": 0.45478636804407424,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.34549404989107585,
+      "gait_smoothness": 0.46657777357385416,
+      "episode_return": 121.09967290324894,
+      "control_cost": 221.58389441498812,
+      "torque_balance": 0.4631918056164534,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3251915355328706,
+      "gait_smoothness": 0.4903092113228727,
+      "episode_return": 97.51111928455454,
+      "control_cost": 224.88368389446146,
+      "torque_balance": 0.4743954463333435,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3172633556759442,
+      "gait_smoothness": 0.4326044409341801,
+      "episode_return": 91.64455785122202,
+      "control_cost": 222.9965894195718,
+      "torque_balance": 0.454416245390585,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3612790878880299,
+      "gait_smoothness": 0.4647680052155931,
+      "episode_return": 133.1109054552302,
+      "control_cost": 225.10525948025952,
+      "torque_balance": 0.47363981921417464,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3602967704420481,
+      "gait_smoothness": 0.46292272771607046,
+      "episode_return": 132.67056681579407,
+      "control_cost": 224.87017839485088,
+      "torque_balance": 0.45753298139465925,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.31820101493679015,
+      "gait_smoothness": 0.45176257433078465,
+      "episode_return": 86.95967017613117,
+      "control_cost": 227.48671405053773,
+      "torque_balance": 0.444109601444841,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.35847534530911734,
+      "gait_smoothness": 0.4784501398614543,
+      "episode_return": 132.70832180580223,
+      "control_cost": 223.04854433425785,
+      "torque_balance": 0.46242165627496834,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3756978674191986,
+      "gait_smoothness": 0.4735495141930963,
+      "episode_return": 148.98239040398443,
+      "control_cost": 224.62296985901037,
+      "torque_balance": 0.4785180967098108,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3296769239598327,
+      "gait_smoothness": 0.4794749839778043,
+      "episode_return": 102.28118019855884,
+      "control_cost": 222.3999266400866,
+      "torque_balance": 0.4767871338571712,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.35014142005038573,
+      "gait_smoothness": 0.473883732364332,
+      "episode_return": 120.506199190381,
+      "control_cost": 225.7809744473837,
+      "torque_balance": 0.4623188875971789,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.34539598014753575,
+      "gait_smoothness": 0.4562948342884935,
+      "episode_return": 118.82327108650888,
+      "control_cost": 223.94810033250656,
+      "torque_balance": 0.4573153746811394,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.32371783589639247,
+      "gait_smoothness": 0.45123550879573787,
+      "episode_return": 99.4209619857413,
+      "control_cost": 222.92344820357863,
+      "torque_balance": 0.4498176019770224,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3409456061330104,
+      "gait_smoothness": 0.4845979164883029,
+      "episode_return": 114.1400171299501,
+      "control_cost": 223.20388564243186,
+      "torque_balance": 0.4772716031233007,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3698165162301272,
+      "gait_smoothness": 0.481723886393149,
+      "episode_return": 141.74243057148473,
+      "control_cost": 225.73200596182897,
+      "torque_balance": 0.46793232637853904,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.33525272943550816,
+      "gait_smoothness": 0.4882433437489938,
+      "episode_return": 106.09013472114003,
+      "control_cost": 225.64088015795147,
+      "torque_balance": 0.4738732002163995,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3365107324093566,
+      "gait_smoothness": 0.4606369371718298,
+      "episode_return": 112.65836690571467,
+      "control_cost": 222.51294987169308,
+      "torque_balance": 0.45018150701311727,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.32384863365087585,
+      "gait_smoothness": 0.4718635362328655,
+      "episode_return": 96.47860513591517,
+      "control_cost": 223.62915965911856,
+      "torque_balance": 0.47737254092254333,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.300353618629841,
+      "gait_smoothness": 0.46864849894475125,
+      "episode_return": 77.491372187612,
+      "control_cost": 221.70020588614696,
+      "torque_balance": 0.4574266043069465,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.30372226774195243,
+      "gait_smoothness": 0.4878857715245992,
+      "episode_return": 78.48973846430818,
+      "control_cost": 223.06711781442087,
+      "torque_balance": 0.4698572716898089,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.32918433367894917,
+      "gait_smoothness": 0.4351981799913478,
+      "episode_return": 100.36326912502166,
+      "control_cost": 226.64366215392707,
+      "torque_balance": 0.46268919824392896,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3262503718408152,
+      "gait_smoothness": 0.4701344239591274,
+      "episode_return": 100.01552961489536,
+      "control_cost": 223.46780336989673,
+      "torque_balance": 0.4706923117406439,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3301333112156714,
+      "gait_smoothness": 0.4681507346611891,
+      "episode_return": 100.74853973876787,
+      "control_cost": 226.526591031718,
+      "torque_balance": 0.4777815275574813,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3694576289827261,
+      "gait_smoothness": 0.48551477848610647,
+      "episode_return": 143.2241433491694,
+      "control_cost": 223.74901618426816,
+      "torque_balance": 0.47099874467817665,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3224150974730053,
+      "gait_smoothness": 0.46767090677407785,
+      "episode_return": 96.2767084303311,
+      "control_cost": 222.80224724747876,
+      "torque_balance": 0.46590639381247617,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.3105997626818414,
+      "gait_smoothness": 0.45249843473875523,
+      "episode_return": 85.27811178477279,
+      "control_cost": 222.99296136061307,
+      "torque_balance": 0.4597900463446757,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "dose_alpha_0.25"
+    },
+    {
+      "forward_velocity": 0.32432305068673256,
+      "gait_smoothness": 0.49982831233248864,
+      "episode_return": 100.15037465027359,
+      "control_cost": 223.98364338234362,
+      "torque_balance": 0.4811373388170942,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "dose_alpha_0.25"
+    }
+  ],
+  "dose_alpha_0.50": [
+    {
+      "forward_velocity": 0.22762267129468292,
+      "gait_smoothness": 0.560899935852086,
+      "episode_return": 2.4751975182218606,
+      "control_cost": 220.41965850633898,
+      "torque_balance": 0.5936853297651202,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.16018503611477836,
+      "gait_smoothness": 0.582688851823541,
+      "episode_return": -62.66819819047753,
+      "control_cost": 219.85721274873566,
+      "torque_balance": 0.5808382927122336,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.20618379811809126,
+      "gait_smoothness": 0.5579112796579972,
+      "episode_return": -15.297294255531542,
+      "control_cost": 217.5311536612103,
+      "torque_balance": 0.5867772173148219,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.1910147125550389,
+      "gait_smoothness": 0.5693167438521043,
+      "episode_return": -28.067013630129637,
+      "control_cost": 218.0309435597201,
+      "torque_balance": 0.5978218770293312,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.1975924392399522,
+      "gait_smoothness": 0.5559061947097965,
+      "episode_return": -25.150233052663655,
+      "control_cost": 218.35388298488508,
+      "torque_balance": 0.5761560906654513,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.2076952817780616,
+      "gait_smoothness": 0.5869308251895932,
+      "episode_return": -10.413273099886332,
+      "control_cost": 216.0538517082157,
+      "torque_balance": 0.5967152279428247,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.22003471420297405,
+      "gait_smoothness": 0.5559122685041221,
+      "episode_return": -2.750614587512769,
+      "control_cost": 217.0686913306401,
+      "torque_balance": 0.5948360076057532,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.1505044151145799,
+      "gait_smoothness": 0.5413905509758996,
+      "episode_return": -69.71235067081786,
+      "control_cost": 217.70106755599153,
+      "torque_balance": 0.5764899430107361,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.18920015176846258,
+      "gait_smoothness": 0.5735403887555633,
+      "episode_return": -31.875272357239496,
+      "control_cost": 216.36173448670672,
+      "torque_balance": 0.6093095284758416,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.21184222091527796,
+      "gait_smoothness": 0.5727514847074398,
+      "episode_return": -8.57749305452728,
+      "control_cost": 216.8993852169011,
+      "torque_balance": 0.5985071976335882,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.1945256383648452,
+      "gait_smoothness": 0.5497709579642881,
+      "episode_return": -22.31128718401257,
+      "control_cost": 214.2064603682222,
+      "torque_balance": 0.5935348495132081,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.20292680654387973,
+      "gait_smoothness": 0.5877449482322823,
+      "episode_return": -18.452343196388597,
+      "control_cost": 217.57262159533684,
+      "torque_balance": 0.6047490558925335,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.2508942711252663,
+      "gait_smoothness": 0.558820251457662,
+      "episode_return": 30.447154182734042,
+      "control_cost": 214.84527670517383,
+      "torque_balance": 0.567690677577437,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.19238777613826732,
+      "gait_smoothness": 0.5716740735948224,
+      "episode_return": -31.742425192899542,
+      "control_cost": 219.76434991233853,
+      "torque_balance": 0.6061224234730023,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.263904525658756,
+      "gait_smoothness": 0.5849723311298514,
+      "episode_return": 46.63888224141382,
+      "control_cost": 216.40152545615354,
+      "torque_balance": 0.6092527632911516,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.19799270281547224,
+      "gait_smoothness": 0.5702336692387001,
+      "episode_return": -21.75616584157344,
+      "control_cost": 217.84806434128706,
+      "torque_balance": 0.588434537096142,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.2394629193133371,
+      "gait_smoothness": 0.5686157778325965,
+      "episode_return": 16.780013270493438,
+      "control_cost": 219.1840223092875,
+      "torque_balance": 0.5815179414533116,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.22266900805641007,
+      "gait_smoothness": 0.5902395837545767,
+      "episode_return": -2.170229464538316,
+      "control_cost": 220.17278641793857,
+      "torque_balance": 0.5783162140455138,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.2640057954965665,
+      "gait_smoothness": 0.55882652401889,
+      "episode_return": 42.74668062233784,
+      "control_cost": 218.17321161058555,
+      "torque_balance": 0.5935610677831634,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.12138286468280056,
+      "gait_smoothness": 0.5565085394719005,
+      "episode_return": -98.81381449144504,
+      "control_cost": 216.60450202137676,
+      "torque_balance": 0.5780718050388732,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.19042999108111283,
+      "gait_smoothness": 0.5755394254922659,
+      "episode_return": -28.613905740391857,
+      "control_cost": 217.53317228799688,
+      "torque_balance": 0.5947011307579216,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.24144005182266776,
+      "gait_smoothness": 0.5860813391122947,
+      "episode_return": 17.897861876945,
+      "control_cost": 219.8613029817727,
+      "torque_balance": 0.5870149016832948,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.19008929067098354,
+      "gait_smoothness": 0.5369479427140451,
+      "episode_return": -34.24372311456987,
+      "control_cost": 217.27470173328427,
+      "torque_balance": 0.5632648996885264,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.20218468474730394,
+      "gait_smoothness": 0.5688429296999349,
+      "episode_return": -18.609994018870676,
+      "control_cost": 215.23644247070186,
+      "torque_balance": 0.5718843404098273,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.2003298753566495,
+      "gait_smoothness": 0.5732661274945726,
+      "episode_return": -21.922637203106987,
+      "control_cost": 218.36474987290168,
+      "torque_balance": 0.6018299780139882,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.13852147954253138,
+      "gait_smoothness": 0.5563099332685947,
+      "episode_return": -82.57727269009027,
+      "control_cost": 219.12716718586836,
+      "torque_balance": 0.6025840510029513,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.11156977822580524,
+      "gait_smoothness": 0.5530922670131089,
+      "episode_return": -108.5866982671604,
+      "control_cost": 216.36775269134577,
+      "torque_balance": 0.5844212494206236,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.21863133176606855,
+      "gait_smoothness": 0.570964059426346,
+      "episode_return": -4.2410806338808476,
+      "control_cost": 219.07069241089278,
+      "torque_balance": 0.6198645768936513,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.1380788496415544,
+      "gait_smoothness": 0.5830029332805494,
+      "episode_return": -85.74229929864323,
+      "control_cost": 220.65771385551724,
+      "torque_balance": 0.6114012788560447,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "dose_alpha_0.50"
+    },
+    {
+      "forward_velocity": 0.20177826891371142,
+      "gait_smoothness": 0.553756725451622,
+      "episode_return": -20.66722954664075,
+      "control_cost": 215.76309857233625,
+      "torque_balance": 0.5893452238340101,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "dose_alpha_0.50"
+    }
+  ],
+  "dose_alpha_0.75": [
+    {
+      "forward_velocity": 0.4195849905867964,
+      "gait_smoothness": 0.6974234806031263,
+      "episode_return": 183.32002990232718,
+      "control_cost": 237.52098892860798,
+      "torque_balance": 0.6859804332727191,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.19615889711691029,
+      "gait_smoothness": 0.5330709307318519,
+      "episode_return": -61.63072994934729,
+      "control_cost": 256.9730070503601,
+      "torque_balance": 0.7055991757586499,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.45260963715153524,
+      "gait_smoothness": 0.7830154877776183,
+      "episode_return": 215.06420271599845,
+      "control_cost": 236.93071779314505,
+      "torque_balance": 0.7266109686825544,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.3611876594575627,
+      "gait_smoothness": 0.6783426754101961,
+      "episode_return": 105.74941411769498,
+      "control_cost": 256.20322816737746,
+      "torque_balance": 0.7259176767197824,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.06464559483710026,
+      "gait_smoothness": 0.37745566882364445,
+      "episode_return": -200.05719309291104,
+      "control_cost": 263.81398307669053,
+      "torque_balance": 0.6961531819176894,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.14170333743248234,
+      "gait_smoothness": 0.5211045976938536,
+      "episode_return": -123.51952779349466,
+      "control_cost": 264.3502642796783,
+      "torque_balance": 0.7012415556349653,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.47166176072690685,
+      "gait_smoothness": 0.7027951946109018,
+      "episode_return": 237.37925281339636,
+      "control_cost": 235.12918621284356,
+      "torque_balance": 0.7314538212507834,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.4056075559881066,
+      "gait_smoothness": 0.716080673604258,
+      "episode_return": 157.93807984162666,
+      "control_cost": 250.86200105956803,
+      "torque_balance": 0.7164859263300261,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.42852047557974376,
+      "gait_smoothness": 0.6827713622146314,
+      "episode_return": 195.59325474726663,
+      "control_cost": 233.77086456515133,
+      "torque_balance": 0.7558226847170829,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.510308133202025,
+      "gait_smoothness": 0.7246480045334138,
+      "episode_return": 273.4747801384618,
+      "control_cost": 235.30623891908508,
+      "torque_balance": 0.712735653752172,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.44291640889855727,
+      "gait_smoothness": 0.6872910776329522,
+      "episode_return": 203.8880520803841,
+      "control_cost": 236.858686235162,
+      "torque_balance": 0.738596699299479,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.25865398130650497,
+      "gait_smoothness": 0.5908086284975141,
+      "episode_return": 8.223732332003824,
+      "control_cost": 250.21109658718512,
+      "torque_balance": 0.7046535079013034,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.45913445462964114,
+      "gait_smoothness": 0.7212091166307719,
+      "episode_return": 219.67748330881653,
+      "control_cost": 238.2625364618464,
+      "torque_balance": 0.7012772770154151,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.5043537582091756,
+      "gait_smoothness": 0.7064253857676684,
+      "episode_return": 271.00100171467255,
+      "control_cost": 233.24663755559766,
+      "torque_balance": 0.6948275054376184,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.17426070104080307,
+      "gait_smoothness": 0.508955960167892,
+      "episode_return": -88.54501562534162,
+      "control_cost": 263.3842863180951,
+      "torque_balance": 0.7086983741706187,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.4543325313119649,
+      "gait_smoothness": 0.7246341937739972,
+      "episode_return": 216.89071264452522,
+      "control_cost": 236.60718034073614,
+      "torque_balance": 0.7053956780434119,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.2856876017942354,
+      "gait_smoothness": 0.6466258484702057,
+      "episode_return": 33.51832859459844,
+      "control_cost": 252.3201445143958,
+      "torque_balance": 0.7078391763732652,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.13813958532648485,
+      "gait_smoothness": 0.48037921393827127,
+      "episode_return": -120.67203878562111,
+      "control_cost": 257.82952169882225,
+      "torque_balance": 0.730139594397487,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.49505808228163983,
+      "gait_smoothness": 0.6999006194404237,
+      "episode_return": 259.3224245791087,
+      "control_cost": 234.6864758906934,
+      "torque_balance": 0.7192426081136898,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.47268651597552913,
+      "gait_smoothness": 0.7334001425184595,
+      "episode_return": 239.1551662366498,
+      "control_cost": 236.4997039643825,
+      "torque_balance": 0.742133585136491,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.526881759725316,
+      "gait_smoothness": 0.7118620231362357,
+      "episode_return": 289.66754227672396,
+      "control_cost": 236.24550116717788,
+      "torque_balance": 0.7384745076611011,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.2290114927950209,
+      "gait_smoothness": 0.5577463858463435,
+      "episode_return": -34.07104266439749,
+      "control_cost": 262.2846359082019,
+      "torque_balance": 0.7144655686845814,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.465982872421128,
+      "gait_smoothness": 0.7446868602376271,
+      "episode_return": 226.46593201857476,
+      "control_cost": 237.75136559776962,
+      "torque_balance": 0.6889519736400844,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.35941421326007383,
+      "gait_smoothness": 0.7693877448126967,
+      "episode_return": 122.90316518251473,
+      "control_cost": 237.38631695330517,
+      "torque_balance": 0.714748183443713,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.4736770287374382,
+      "gait_smoothness": 0.6961963829490735,
+      "episode_return": 236.6212501206322,
+      "control_cost": 235.7955392208097,
+      "torque_balance": 0.7469987546691738,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.3814164884624703,
+      "gait_smoothness": 0.6907924287725303,
+      "episode_return": 138.306284446992,
+      "control_cost": 245.43262083303892,
+      "torque_balance": 0.6873983549313281,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.39707118418327014,
+      "gait_smoothness": 0.6865072089243667,
+      "episode_return": 151.56218187781045,
+      "control_cost": 242.13303401236132,
+      "torque_balance": 0.693957870743539,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.34533637305573517,
+      "gait_smoothness": 0.6359294269360992,
+      "episode_return": 93.21286703935615,
+      "control_cost": 251.586127253528,
+      "torque_balance": 0.6961385725319951,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.3783545795658679,
+      "gait_smoothness": 0.6783757320486109,
+      "episode_return": 132.255213860824,
+      "control_cost": 245.09541665154532,
+      "torque_balance": 0.7100363789017367,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "dose_alpha_0.75"
+    },
+    {
+      "forward_velocity": 0.388742864148865,
+      "gait_smoothness": 0.7114877669598074,
+      "episode_return": 149.14986715015195,
+      "control_cost": 238.38764951690868,
+      "torque_balance": 0.7330685709960708,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "dose_alpha_0.75"
+    }
+  ]
+}

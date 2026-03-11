@@ -1,0 +1,51 @@
+[
+  {
+    "comparison": "Aligned-N vs Misaligned-LH",
+    "t_stat": -12.66854530916249,
+    "p_value": 4.7042214197101626e-18,
+    "cohens_d": -3.3269229881357947,
+    "significant": "***"
+  },
+  {
+    "comparison": "Aligned-N vs Misaligned-NL",
+    "t_stat": -2.4016393346774025,
+    "p_value": 0.01970845849015701,
+    "cohens_d": -0.6307013881041742,
+    "significant": "*"
+  },
+  {
+    "comparison": "Aligned-N vs Misaligned-NH",
+    "t_stat": -10.290080531233667,
+    "p_value": 1.1837466066744833e-14,
+    "cohens_d": -2.7023075367911433,
+    "significant": "***"
+  },
+  {
+    "comparison": "Aligned-L vs Misaligned-LH",
+    "t_stat": -3.3884539896256936,
+    "p_value": 0.0012747712246043666,
+    "cohens_d": -0.8898516125740904,
+    "significant": "**"
+  },
+  {
+    "comparison": "Aligned-H vs Misaligned-LH",
+    "t_stat": -7.166740599569937,
+    "p_value": 2.3661620866101485e-09,
+    "cohens_d": -1.8820782867209551,
+    "significant": "***"
+  },
+  {
+    "comparison": "Aligned-L vs Misaligned-NL",
+    "t_stat": 8.744279408717516,
+    "p_value": 3.66157157698492e-12,
+    "cohens_d": 2.296360274174842,
+    "significant": "***"
+  },
+  {
+    "comparison": "Aligned-H vs Misaligned-NH",
+    "t_stat": -4.417648611589375,
+    "p_value": 5.3111470855152984e-05,
+    "cohens_d": -1.1601313616310136,
+    "significant": "***"
+  }
+]

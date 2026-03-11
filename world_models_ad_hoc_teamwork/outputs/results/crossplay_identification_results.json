@@ -1,0 +1,138 @@
+{
+  "full_obs": {
+    "1": {
+      "correct": 250,
+      "total": 500
+    },
+    "2": {
+      "correct": 247,
+      "total": 500
+    },
+    "3": {
+      "correct": 249,
+      "total": 500
+    },
+    "5": {
+      "correct": 251,
+      "total": 500
+    },
+    "8": {
+      "correct": 257,
+      "total": 500
+    },
+    "10": {
+      "correct": 262,
+      "total": 500
+    },
+    "15": {
+      "correct": 265,
+      "total": 500
+    },
+    "20": {
+      "correct": 269,
+      "total": 500
+    }
+  },
+  "other_rel": {
+    "1": {
+      "correct": 251,
+      "total": 500
+    },
+    "2": {
+      "correct": 253,
+      "total": 500
+    },
+    "3": {
+      "correct": 255,
+      "total": 500
+    },
+    "5": {
+      "correct": 257,
+      "total": 500
+    },
+    "8": {
+      "correct": 256,
+      "total": 500
+    },
+    "10": {
+      "correct": 260,
+      "total": 500
+    },
+    "15": {
+      "correct": 267,
+      "total": 500
+    },
+    "20": {
+      "correct": 274,
+      "total": 500
+    }
+  },
+  "cross_pop_full": {
+    "1": {
+      "correct": 257,
+      "total": 500
+    },
+    "2": {
+      "correct": 299,
+      "total": 500
+    },
+    "3": {
+      "correct": 324,
+      "total": 500
+    },
+    "5": {
+      "correct": 371,
+      "total": 500
+    },
+    "8": {
+      "correct": 409,
+      "total": 500
+    },
+    "10": {
+      "correct": 427,
+      "total": 500
+    },
+    "15": {
+      "correct": 466,
+      "total": 500
+    },
+    "20": {
+      "correct": 480,
+      "total": 500
+    }
+  },
+  "cross_pop_rel": {
+    "1": {
+      "correct": 268,
+      "total": 500
+    },
+    "2": {
+      "correct": 299,
+      "total": 500
+    },
+    "3": {
+      "correct": 335,
+      "total": 500
+    },
+    "5": {
+      "correct": 376,
+      "total": 500
+    },
+    "8": {
+      "correct": 438,
+      "total": 500
+    },
+    "10": {
+      "correct": 458,
+      "total": 500
+    },
+    "15": {
+      "correct": 488,
+      "total": 500
+    },
+    "20": {
+      "correct": 493,
+      "total": 500
+    }
+  }
+}

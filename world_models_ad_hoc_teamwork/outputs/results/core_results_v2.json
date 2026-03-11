@@ -1,0 +1,2720 @@
+{
+  "Aligned-Random": [
+    {
+      "forward_velocity": 0.23504600126817551,
+      "gait_smoothness": 0.6328368264340845,
+      "episode_return": 34.20420636596101,
+      "control_cost": 200.1903700656809,
+      "torque_balance": 1.1334608724740405,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.18072880535174926,
+      "gait_smoothness": 0.8226752084064308,
+      "episode_return": -63.70523253507346,
+      "control_cost": 249.55683034411894,
+      "torque_balance": 0.9998871433499179,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.1030706774822076,
+      "gait_smoothness": 0.8111196618840565,
+      "episode_return": -142.45343722500203,
+      "control_cost": 247.56233872028486,
+      "torque_balance": 0.9607006619100563,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.12407849085706639,
+      "gait_smoothness": 0.7963899684309164,
+      "episode_return": -119.64712832780114,
+      "control_cost": 248.39519113775458,
+      "torque_balance": 0.9739735305655606,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.29163610445884924,
+      "gait_smoothness": 0.8106695842281416,
+      "episode_return": 57.74176344605479,
+      "control_cost": 236.19287745034475,
+      "torque_balance": 0.9972851871745244,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.19895279348425216,
+      "gait_smoothness": 0.7566577969820896,
+      "episode_return": -40.71677682591527,
+      "control_cost": 243.91211408729643,
+      "torque_balance": 0.9732178518001138,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.07050668155200661,
+      "gait_smoothness": 0.7571992678543642,
+      "episode_return": -170.58960157047593,
+      "control_cost": 240.65114826343242,
+      "torque_balance": 0.9869849356387282,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.07649961695041381,
+      "gait_smoothness": 0.700403938095154,
+      "episode_return": -160.43286333231583,
+      "control_cost": 233.97496652673462,
+      "torque_balance": 0.9914585271515317,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.25763623385358786,
+      "gait_smoothness": 0.7733070974056063,
+      "episode_return": 28.849378474691814,
+      "control_cost": 229.10094840621076,
+      "torque_balance": 1.0380113496527505,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.11764438889387113,
+      "gait_smoothness": 0.7876977158893642,
+      "episode_return": -120.8613145426709,
+      "control_cost": 243.9949514539865,
+      "torque_balance": 0.9543830819023688,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.2611453482627193,
+      "gait_smoothness": 0.5783526462764247,
+      "episode_return": 60.897301524304254,
+      "control_cost": 194.66894198826824,
+      "torque_balance": 1.2213617038738613,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.12143979621929706,
+      "gait_smoothness": 0.7847692834052542,
+      "episode_return": -125.77477740967737,
+      "control_cost": 246.25241309688883,
+      "torque_balance": 0.9375127983206591,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.019506358756699895,
+      "gait_smoothness": 0.6350669514642726,
+      "episode_return": -199.8828584227333,
+      "control_cost": 218.29671140683286,
+      "torque_balance": 1.0359285229653985,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.06146577278268505,
+      "gait_smoothness": 0.8344122808512103,
+      "episode_return": -176.70481864596744,
+      "control_cost": 239.886675653504,
+      "torque_balance": 1.0191432383780732,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.14623492089454734,
+      "gait_smoothness": 0.7499327749437112,
+      "episode_return": -98.69513756348805,
+      "control_cost": 244.80298367532168,
+      "torque_balance": 0.959497033637732,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.24050140695917854,
+      "gait_smoothness": 0.5904068400367456,
+      "episode_return": 35.49999962531634,
+      "control_cost": 201.11207849223345,
+      "torque_balance": 1.1777886984043233,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": -0.0013032671502479563,
+      "gait_smoothness": 0.5781053975566564,
+      "episode_return": -220.6279203120521,
+      "control_cost": 215.6352476770463,
+      "torque_balance": 1.0144241691767186,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.0726037905007382,
+      "gait_smoothness": 0.661540499441451,
+      "episode_return": -156.1368359260023,
+      "control_cost": 227.4427894063614,
+      "torque_balance": 1.002967367144303,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": -0.031388897798114636,
+      "gait_smoothness": 0.7337965954616679,
+      "episode_return": -261.08515158930936,
+      "control_cost": 230.3090915521297,
+      "torque_balance": 1.0011694515347516,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": -0.04616956733742073,
+      "gait_smoothness": 0.6322201850766369,
+      "episode_return": -257.2597364790939,
+      "control_cost": 214.57810304434437,
+      "torque_balance": 1.0283825628068444,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.2945955773865863,
+      "gait_smoothness": 0.5505889166941681,
+      "episode_return": 100.44210904008528,
+      "control_cost": 190.30519658707834,
+      "torque_balance": 1.2219924684517933,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.2505398467179397,
+      "gait_smoothness": 0.6441534583285515,
+      "episode_return": 44.42094540067462,
+      "control_cost": 204.11179274832224,
+      "torque_balance": 1.0770149133260865,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": -0.12250844358361664,
+      "gait_smoothness": 0.6079385386404969,
+      "episode_return": -340.9290676060651,
+      "control_cost": 219.40562402730632,
+      "torque_balance": 1.0167917372675086,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.20810276549067844,
+      "gait_smoothness": 0.7747859209116323,
+      "episode_return": -34.51032986399108,
+      "control_cost": 242.66105308714444,
+      "torque_balance": 0.9582284705365255,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.2176126000089684,
+      "gait_smoothness": 0.5161171609435533,
+      "episode_return": 30.80578924179109,
+      "control_cost": 182.57940156586264,
+      "torque_balance": 1.3515454084264324,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": -0.019022962441095064,
+      "gait_smoothness": 0.7345022324824912,
+      "episode_return": -252.94636675870245,
+      "control_cost": 234.70358009480802,
+      "torque_balance": 1.0117192721968304,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": -0.02665508232725511,
+      "gait_smoothness": 0.7492860448106173,
+      "episode_return": -259.8060530712309,
+      "control_cost": 234.38745800460765,
+      "torque_balance": 0.9828011668776181,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.15168864431860726,
+      "gait_smoothness": 0.7414200540186954,
+      "episode_return": -88.63243956836999,
+      "control_cost": 244.9304573770071,
+      "torque_balance": 0.9815326614244008,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.08893238328678839,
+      "gait_smoothness": 0.8038067162979318,
+      "episode_return": -152.32469934301275,
+      "control_cost": 245.97915394764487,
+      "torque_balance": 0.9982589463514193,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Aligned-Random"
+    },
+    {
+      "forward_velocity": 0.1793502428936392,
+      "gait_smoothness": 0.6752398754719131,
+      "episode_return": -41.340513742914595,
+      "control_cost": 219.52534517271286,
+      "torque_balance": 1.0441683841207723,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Aligned-Random"
+    }
+  ],
+  "Aligned-PPO": [
+    {
+      "forward_velocity": 0.059763952877122356,
+      "gait_smoothness": 0.5129080998203126,
+      "episode_return": -224.09990981199223,
+      "control_cost": 289.97863633835374,
+      "torque_balance": 1.2234803019319336,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.019535694208771864,
+      "gait_smoothness": 0.5989150644601581,
+      "episode_return": -244.02962130178125,
+      "control_cost": 264.2920846051002,
+      "torque_balance": 0.9951813224684435,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.12941072034405068,
+      "gait_smoothness": 0.587296300894431,
+      "episode_return": -137.9201978252291,
+      "control_cost": 267.9104345971559,
+      "torque_balance": 1.0935922093591157,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.08204949872814402,
+      "gait_smoothness": 0.4694651618137885,
+      "episode_return": -207.0127222332861,
+      "control_cost": 297.66933596000666,
+      "torque_balance": 1.2404355420503161,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.10025399805878334,
+      "gait_smoothness": 0.5355564569775606,
+      "episode_return": -178.3163804108189,
+      "control_cost": 282.2724882455716,
+      "torque_balance": 1.1776644984506905,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.1359174948269814,
+      "gait_smoothness": 0.5532244773537413,
+      "episode_return": -145.11950507573252,
+      "control_cost": 279.15464439788445,
+      "torque_balance": 1.143264713407944,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.1168770170337928,
+      "gait_smoothness": 0.5654712815070891,
+      "episode_return": -156.67716403845523,
+      "control_cost": 270.8516128318272,
+      "torque_balance": 1.114847097622892,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.006853864512940227,
+      "gait_smoothness": 0.5959468912683495,
+      "episode_return": -257.5830913485884,
+      "control_cost": 262.90913559359365,
+      "torque_balance": 0.9920954489072341,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.06347536544754472,
+      "gait_smoothness": 0.5720080953713604,
+      "episode_return": -211.75010773436222,
+      "control_cost": 277.454129331052,
+      "torque_balance": 1.0629916649092803,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.16058289071074064,
+      "gait_smoothness": 0.599419528399401,
+      "episode_return": -108.45037558876788,
+      "control_cost": 268.22188638400473,
+      "torque_balance": 1.1122222641010793,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.11710440913159961,
+      "gait_smoothness": 0.597209653325275,
+      "episode_return": -154.36259089150627,
+      "control_cost": 267.4279524569137,
+      "torque_balance": 1.0560802782952174,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.10819660651893052,
+      "gait_smoothness": 0.6145861882372954,
+      "episode_return": -161.0228942063875,
+      "control_cost": 266.60655029524514,
+      "torque_balance": 1.0920855372146225,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.04041318706852988,
+      "gait_smoothness": 0.5504434416027396,
+      "episode_return": -233.77435578975624,
+      "control_cost": 283.34064138508415,
+      "torque_balance": 1.1568323735887664,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.1412774992439054,
+      "gait_smoothness": 0.4879936641766158,
+      "episode_return": -133.42340343628908,
+      "control_cost": 285.5590562657026,
+      "torque_balance": 1.194010433666407,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.07881696979497634,
+      "gait_smoothness": 0.5985921077014967,
+      "episode_return": -186.8255385802634,
+      "control_cost": 265.73377491358485,
+      "torque_balance": 1.084954599799745,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.10804728501620596,
+      "gait_smoothness": 0.5173190971466194,
+      "episode_return": -173.62836819464556,
+      "control_cost": 285.5760953486178,
+      "torque_balance": 1.1371888032528101,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.14951807540449863,
+      "gait_smoothness": 0.4912122139214455,
+      "episode_return": -135.99604344176433,
+      "control_cost": 288.74728414417166,
+      "torque_balance": 1.1705664536758045,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.05887803666325031,
+      "gait_smoothness": 0.5027019120949665,
+      "episode_return": -227.82451302089498,
+      "control_cost": 295.64222062388984,
+      "torque_balance": 1.2126187882230073,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.1232260147437378,
+      "gait_smoothness": 0.592884520060597,
+      "episode_return": -150.7344552212567,
+      "control_cost": 274.6897568837677,
+      "torque_balance": 1.1079741937801686,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.12902815218577135,
+      "gait_smoothness": 0.6147787933618837,
+      "episode_return": -140.2862160966033,
+      "control_cost": 264.87289196318693,
+      "torque_balance": 1.0981197860108056,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.09573808462231187,
+      "gait_smoothness": 0.611966525689468,
+      "episode_return": -178.92421874087213,
+      "control_cost": 269.26221323650077,
+      "torque_balance": 1.034696210102184,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.08233787915462804,
+      "gait_smoothness": 0.4973015381796422,
+      "episode_return": -199.1634245737367,
+      "control_cost": 288.01442067359085,
+      "torque_balance": 1.220579044801743,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.04784893550370315,
+      "gait_smoothness": 0.46580129844194706,
+      "episode_return": -235.02047072630717,
+      "control_cost": 290.3474664735199,
+      "torque_balance": 1.1887064846623243,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.08806844825355711,
+      "gait_smoothness": 0.5819766962223832,
+      "episode_return": -187.02076852220213,
+      "control_cost": 271.74179545684433,
+      "torque_balance": 1.1102839843289318,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.11916020278991533,
+      "gait_smoothness": 0.5325423680213677,
+      "episode_return": -164.68582013581826,
+      "control_cost": 288.1258577498293,
+      "torque_balance": 1.1909073331170597,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.055157238018770795,
+      "gait_smoothness": 0.5529943114158339,
+      "episode_return": -213.41083795671315,
+      "control_cost": 274.29176469952483,
+      "torque_balance": 1.095133621337491,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.11630247809178101,
+      "gait_smoothness": 0.507711511935772,
+      "episode_return": -158.25658114083367,
+      "control_cost": 277.5140949546068,
+      "torque_balance": 1.1408215487276274,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.055488302147177634,
+      "gait_smoothness": 0.5701363547413686,
+      "episode_return": -219.9171278478582,
+      "control_cost": 279.9372506592092,
+      "torque_balance": 1.1086076094017512,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.12032594043956868,
+      "gait_smoothness": 0.5642384773906214,
+      "episode_return": -163.640133542296,
+      "control_cost": 280.6368689429297,
+      "torque_balance": 1.188162872129381,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Aligned-PPO"
+    },
+    {
+      "forward_velocity": 0.12419284107802586,
+      "gait_smoothness": 0.6042886107786132,
+      "episode_return": -152.0445091214699,
+      "control_cost": 274.30228627861146,
+      "torque_balance": 1.1322292199940263,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Aligned-PPO"
+    }
+  ],
+  "Aligned-Det": [
+    {
+      "forward_velocity": -0.410421300421177,
+      "gait_smoothness": 0.9233632280352815,
+      "episode_return": -675.203457806903,
+      "control_cost": 271.3234702964364,
+      "torque_balance": 1.0584581385442762,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.08579100075420763,
+      "gait_smoothness": 0.8481989293012359,
+      "episode_return": -339.8179082218431,
+      "control_cost": 260.67280069310095,
+      "torque_balance": 1.0491025295962584,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": 0.03524604316420489,
+      "gait_smoothness": 0.8177085725405233,
+      "episode_return": -207.8363194189543,
+      "control_cost": 244.36433318967275,
+      "torque_balance": 0.9606168345500481,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.30906011726933946,
+      "gait_smoothness": 0.9683116621450983,
+      "episode_return": -578.2782110819833,
+      "control_cost": 272.84216659127276,
+      "torque_balance": 1.0123764752488886,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.18732959809193256,
+      "gait_smoothness": 0.8296277831734126,
+      "episode_return": -472.5820772810963,
+      "control_cost": 280.48920167314424,
+      "torque_balance": 1.024399392582729,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.27723231032531714,
+      "gait_smoothness": 0.9177474105103509,
+      "episode_return": -549.4004837266051,
+      "control_cost": 269.57946569256956,
+      "torque_balance": 1.0421244146074926,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": 0.16155220724318783,
+      "gait_smoothness": 0.7661757000441711,
+      "episode_return": -81.59444145275384,
+      "control_cost": 244.6587275787459,
+      "torque_balance": 0.9924931623132534,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.1274193021379771,
+      "gait_smoothness": 0.9332304673357991,
+      "episode_return": -387.840719136982,
+      "control_cost": 262.86886998430765,
+      "torque_balance": 1.0321478845385752,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.16574890799969896,
+      "gait_smoothness": 0.8992923582638933,
+      "episode_return": -420.06865350292935,
+      "control_cost": 257.82807287771016,
+      "torque_balance": 0.979214914441337,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.01600207572415914,
+      "gait_smoothness": 0.710449973791683,
+      "episode_return": -242.40131305195564,
+      "control_cost": 240.69976173530034,
+      "torque_balance": 0.9613458624289797,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.10722475385633327,
+      "gait_smoothness": 0.831580692121077,
+      "episode_return": -363.3291421680327,
+      "control_cost": 263.33144581599123,
+      "torque_balance": 1.0119465813615183,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.17512462218704042,
+      "gait_smoothness": 0.7352805697644685,
+      "episode_return": -473.96092648482363,
+      "control_cost": 298.74080133558675,
+      "torque_balance": 1.0133268034893619,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.3226316014698718,
+      "gait_smoothness": 0.8378657940332616,
+      "episode_return": -612.1075426801287,
+      "control_cost": 287.62924064981723,
+      "torque_balance": 1.018176726595174,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.1047423027478356,
+      "gait_smoothness": 0.7231425092488125,
+      "episode_return": -412.7382482628282,
+      "control_cost": 302.16509105227397,
+      "torque_balance": 1.0194820663719864,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.13280316083725238,
+      "gait_smoothness": 0.7326180605820882,
+      "episode_return": -434.1921558636898,
+      "control_cost": 298.08609931176073,
+      "torque_balance": 1.0333126841717688,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.5291110672064053,
+      "gait_smoothness": 0.8828409268613219,
+      "episode_return": -805.7541107675644,
+      "control_cost": 279.9919104781368,
+      "torque_balance": 1.0883061975104202,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.36748198090691053,
+      "gait_smoothness": 0.9586634314436903,
+      "episode_return": -640.1236352730349,
+      "control_cost": 269.94280272891797,
+      "torque_balance": 1.0453516471254254,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.04924849566082915,
+      "gait_smoothness": 0.7833927858543714,
+      "episode_return": -295.47175510260155,
+      "control_cost": 250.63516101077164,
+      "torque_balance": 1.0111348557422495,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.26556153792364917,
+      "gait_smoothness": 0.8885848638825298,
+      "episode_return": -525.8214580696157,
+      "control_cost": 263.4519739776791,
+      "torque_balance": 1.0128325483107616,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.016545039323144606,
+      "gait_smoothness": 0.8111640606641314,
+      "episode_return": -259.7768503459253,
+      "control_cost": 253.58511365091388,
+      "torque_balance": 0.9460741148419264,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.36993737632938856,
+      "gait_smoothness": 0.9144733857315569,
+      "episode_return": -667.0609815977141,
+      "control_cost": 295.76082884011817,
+      "torque_balance": 1.0564525170488395,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.02281142378796463,
+      "gait_smoothness": 0.7963449351000054,
+      "episode_return": -269.50480092675184,
+      "control_cost": 245.91352313249095,
+      "torque_balance": 0.9947795882248214,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": 0.215246208492638,
+      "gait_smoothness": 0.7159423747183682,
+      "episode_return": -21.14615606453547,
+      "control_cost": 238.2519555362713,
+      "torque_balance": 0.994110008697612,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": 0.16949442976958404,
+      "gait_smoothness": 0.6765821831911601,
+      "episode_return": -66.38952640483265,
+      "control_cost": 237.7601152545235,
+      "torque_balance": 0.9437121368451366,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.3384213518182286,
+      "gait_smoothness": 0.8640460641720649,
+      "episode_return": -619.113854166923,
+      "control_cost": 279.3896382655079,
+      "torque_balance": 1.0462665904636712,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.3367347642178553,
+      "gait_smoothness": 0.9287493425192167,
+      "episode_return": -601.2927205070791,
+      "control_cost": 268.7346312032116,
+      "torque_balance": 1.0641248326544006,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": 0.1373757136740378,
+      "gait_smoothness": 0.6947258164142854,
+      "episode_return": -96.93138242578023,
+      "control_cost": 235.083271889025,
+      "torque_balance": 0.993908572717746,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.13560807823030138,
+      "gait_smoothness": 0.6800550290394893,
+      "episode_return": -435.09284541545753,
+      "control_cost": 298.8055103024117,
+      "torque_balance": 0.9703416897260674,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": -0.012389561027617318,
+      "gait_smoothness": 0.8005060674412418,
+      "episode_return": -263.661280900962,
+      "control_cost": 254.24649770793417,
+      "torque_balance": 0.9435175228398666,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Aligned-Det"
+    },
+    {
+      "forward_velocity": 0.013496738373998056,
+      "gait_smoothness": 0.8744257871045865,
+      "episode_return": -230.5608001809307,
+      "control_cost": 250.39699949120725,
+      "torque_balance": 1.0009661368356795,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Aligned-Det"
+    }
+  ],
+  "Misaligned-RandomPPO": [
+    {
+      "forward_velocity": 0.4263246248270918,
+      "gait_smoothness": 0.6751534834952397,
+      "episode_return": 177.10585805964172,
+      "control_cost": 248.29873612118945,
+      "torque_balance": 0.90520587777743,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.36496299944974425,
+      "gait_smoothness": 0.6314779722691408,
+      "episode_return": 118.28119897045177,
+      "control_cost": 243.62102258765606,
+      "torque_balance": 0.854458221933227,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.4706626482771376,
+      "gait_smoothness": 0.6561141774162146,
+      "episode_return": 230.39209095372178,
+      "control_cost": 239.8997601368801,
+      "torque_balance": 0.8863763992969447,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.3412140371393174,
+      "gait_smoothness": 0.6709915413832379,
+      "episode_return": 92.46239764244369,
+      "control_cost": 247.43213624858362,
+      "torque_balance": 0.8724999205575134,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.45732766786865875,
+      "gait_smoothness": 0.6684644154731054,
+      "episode_return": 207.02049934235464,
+      "control_cost": 247.58684148008035,
+      "torque_balance": 0.8693757852367777,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.41334339505138445,
+      "gait_smoothness": 0.6920352682849892,
+      "episode_return": 166.46016078437782,
+      "control_cost": 247.181600623177,
+      "torque_balance": 0.860795153276953,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.217319899382145,
+      "gait_smoothness": 0.6191874335620342,
+      "episode_return": -17.305283587342213,
+      "control_cost": 230.9672768379243,
+      "torque_balance": 0.7231838917287198,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.24179152897913941,
+      "gait_smoothness": 0.6414823856921777,
+      "episode_return": 2.182039504067383,
+      "control_cost": 231.9169339858253,
+      "torque_balance": 0.7153284078415245,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.2688591895489184,
+      "gait_smoothness": 0.6267991414851155,
+      "episode_return": 33.6635555603647,
+      "control_cost": 231.85925447108352,
+      "torque_balance": 0.7864702391440738,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.37651091266389036,
+      "gait_smoothness": 0.6794904683816023,
+      "episode_return": 133.1161291567518,
+      "control_cost": 243.89666604234714,
+      "torque_balance": 0.8926805876696147,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.28780313770389865,
+      "gait_smoothness": 0.6566642762470337,
+      "episode_return": 49.9265536598599,
+      "control_cost": 233.2770727976761,
+      "torque_balance": 0.7852102609872813,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.4773963543311619,
+      "gait_smoothness": 0.6710103657005675,
+      "episode_return": 229.7977439254402,
+      "control_cost": 246.42152270422002,
+      "torque_balance": 0.865497744877213,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.359502405174757,
+      "gait_smoothness": 0.6675153795596042,
+      "episode_return": 109.24748588225833,
+      "control_cost": 247.10664965817236,
+      "torque_balance": 0.8665140442804512,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.4885407478732342,
+      "gait_smoothness": 0.659727075361679,
+      "episode_return": 237.64113362743007,
+      "control_cost": 248.4575570714471,
+      "torque_balance": 0.905570524381584,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.3848798485918247,
+      "gait_smoothness": 0.6564045614723861,
+      "episode_return": 137.61707213876144,
+      "control_cost": 245.10725492179085,
+      "torque_balance": 0.8932626866667001,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.3528431048101579,
+      "gait_smoothness": 0.6644647081117107,
+      "episode_return": 108.43266467938837,
+      "control_cost": 244.15491589998206,
+      "torque_balance": 0.8753325405705245,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.38806882981966484,
+      "gait_smoothness": 0.6818983101855863,
+      "episode_return": 142.00268178839013,
+      "control_cost": 244.39816107045135,
+      "torque_balance": 0.8831539409766348,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.18697318948161845,
+      "gait_smoothness": 0.6295555313270982,
+      "episode_return": -47.641832108878056,
+      "control_cost": 229.0000292143464,
+      "torque_balance": 0.7362234761532825,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.4482446938009049,
+      "gait_smoothness": 0.648415583385946,
+      "episode_return": 198.56176550989213,
+      "control_cost": 246.34654829981287,
+      "torque_balance": 0.887498812158363,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.4359606014525945,
+      "gait_smoothness": 0.6695167236962476,
+      "episode_return": 184.29239129978998,
+      "control_cost": 249.10992510142205,
+      "torque_balance": 0.8601977175847356,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.2913465040106361,
+      "gait_smoothness": 0.6826157827106943,
+      "episode_return": 43.60659715816146,
+      "control_cost": 246.61756529818769,
+      "torque_balance": 0.8758275152579875,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.3791884639547795,
+      "gait_smoothness": 0.6683536600392787,
+      "episode_return": 135.02691125001044,
+      "control_cost": 242.98965927235287,
+      "torque_balance": 0.9280700023462913,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.2616554751621054,
+      "gait_smoothness": 0.6618761104503369,
+      "episode_return": 20.19026419958259,
+      "control_cost": 240.15571512910822,
+      "torque_balance": 0.8604340576607982,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.336052512095048,
+      "gait_smoothness": 0.6681159941832056,
+      "episode_return": 91.92122620633388,
+      "control_cost": 241.66827040864572,
+      "torque_balance": 0.838864239040447,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.28751396318527217,
+      "gait_smoothness": 0.6245622174309555,
+      "episode_return": 47.97169355791342,
+      "control_cost": 232.46482826901286,
+      "torque_balance": 0.7942374342100585,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.4458374793856847,
+      "gait_smoothness": 0.6647806911052883,
+      "episode_return": 203.45319245068868,
+      "control_cost": 242.5232315698681,
+      "torque_balance": 0.862339129792985,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.39790774815116464,
+      "gait_smoothness": 0.6695298519411945,
+      "episode_return": 153.6796587946695,
+      "control_cost": 244.36814296664633,
+      "torque_balance": 0.8856897507787648,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.34668499757155524,
+      "gait_smoothness": 0.6747348737356346,
+      "episode_return": 102.17582253488894,
+      "control_cost": 244.05569862675603,
+      "torque_balance": 0.8917528574177174,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.3476262211082066,
+      "gait_smoothness": 0.6656809809625825,
+      "episode_return": 97.37831174131621,
+      "control_cost": 246.57049757846136,
+      "torque_balance": 0.8892017884580401,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Misaligned-RandomPPO"
+    },
+    {
+      "forward_velocity": 0.3837260898450211,
+      "gait_smoothness": 0.6822543939380412,
+      "episode_return": 136.05724561978408,
+      "control_cost": 246.52542977510484,
+      "torque_balance": 0.8998202719499764,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Misaligned-RandomPPO"
+    }
+  ],
+  "Misaligned-PPORandom": [
+    {
+      "forward_velocity": 0.26249551937260673,
+      "gait_smoothness": 0.6217567010825661,
+      "episode_return": 17.8173417984129,
+      "control_cost": 241.8323246475196,
+      "torque_balance": 1.2595199195940663,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.29059592681637036,
+      "gait_smoothness": 0.46371349291260144,
+      "episode_return": 15.967355265996646,
+      "control_cost": 278.05172543953535,
+      "torque_balance": 1.572295521790191,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.2858786135562074,
+      "gait_smoothness": 0.6296559820106501,
+      "episode_return": 40.576595288630436,
+      "control_cost": 240.24497526874805,
+      "torque_balance": 1.0566557605643945,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.24705379436199804,
+      "gait_smoothness": 0.622346462238363,
+      "episode_return": -13.126620840116024,
+      "control_cost": 259.7891447882766,
+      "torque_balance": 1.0588448247146536,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.2982727042849591,
+      "gait_smoothness": 0.6103938253604798,
+      "episode_return": 43.56967628508566,
+      "control_cost": 253.79740004176003,
+      "torque_balance": 1.2405661405812787,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.23173283913308815,
+      "gait_smoothness": 0.6483741563184774,
+      "episode_return": -27.003813615725505,
+      "control_cost": 254.34577594996637,
+      "torque_balance": 0.9389442346701696,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.31623938973637084,
+      "gait_smoothness": 0.6896701977742966,
+      "episode_return": 59.53253492593178,
+      "control_cost": 253.05508288522657,
+      "torque_balance": 0.9137538654983262,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.31504099637250915,
+      "gait_smoothness": 0.6830095743280906,
+      "episode_return": 58.9515074490152,
+      "control_cost": 253.79487292861046,
+      "torque_balance": 0.9436039746711289,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.12053583837800892,
+      "gait_smoothness": 0.541884680589414,
+      "episode_return": -126.60078986075534,
+      "control_cost": 244.5515596803461,
+      "torque_balance": 1.4404899358085985,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.3645996201008465,
+      "gait_smoothness": 0.6559991677086455,
+      "episode_return": 121.26519120265088,
+      "control_cost": 242.52183939534996,
+      "torque_balance": 1.2084878943788642,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.20161187956576676,
+      "gait_smoothness": 0.566105805067685,
+      "episode_return": -49.54023264154201,
+      "control_cost": 247.3107859306492,
+      "torque_balance": 1.3512019376308704,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.337330816679494,
+      "gait_smoothness": 0.7015681271227833,
+      "episode_return": 76.26802396626987,
+      "control_cost": 259.2825231484028,
+      "torque_balance": 0.996325339976993,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.18020246652678568,
+      "gait_smoothness": 0.5642856366271606,
+      "episode_return": -62.31930593434598,
+      "control_cost": 233.3344251102189,
+      "torque_balance": 1.339818797632343,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.16098068851267852,
+      "gait_smoothness": 0.6016003460303734,
+      "episode_return": -78.12408746890317,
+      "control_cost": 242.6221886020364,
+      "torque_balance": 1.178681596987001,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.17313717425598749,
+      "gait_smoothness": 0.5302237861847574,
+      "episode_return": -74.6763113245213,
+      "control_cost": 248.337064805386,
+      "torque_balance": 1.4934196893004728,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.34684160842850864,
+      "gait_smoothness": 0.7000868577360324,
+      "episode_return": 87.4842168991162,
+      "control_cost": 254.61178980669365,
+      "torque_balance": 0.9421602161394127,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.29835512249549245,
+      "gait_smoothness": 0.6795800717895207,
+      "episode_return": 41.752968026165725,
+      "control_cost": 254.65108233547082,
+      "torque_balance": 0.9318257357119109,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.2238690990521286,
+      "gait_smoothness": 0.5488972938916507,
+      "episode_return": -29.28041935162416,
+      "control_cost": 248.61683699381973,
+      "torque_balance": 1.3269086004642399,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.2907948453396311,
+      "gait_smoothness": 0.6770025052719988,
+      "episode_return": 31.953546706511045,
+      "control_cost": 256.83848672049993,
+      "torque_balance": 0.9825599271841169,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.2511370987030374,
+      "gait_smoothness": 0.7055686116696098,
+      "episode_return": -7.077200703889373,
+      "control_cost": 255.24318891228856,
+      "torque_balance": 0.8936011680933028,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.37902048676665184,
+      "gait_smoothness": 0.6611425959007864,
+      "episode_return": 112.78313678284997,
+      "control_cost": 264.72638965152055,
+      "torque_balance": 1.1348793426810613,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.35691958595018614,
+      "gait_smoothness": 0.6717404251097195,
+      "episode_return": 107.1950274025328,
+      "control_cost": 244.9410026718027,
+      "torque_balance": 0.8803376023634155,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.1851998354568608,
+      "gait_smoothness": 0.55709555668296,
+      "episode_return": -54.27771039176805,
+      "control_cost": 231.9200823825454,
+      "torque_balance": 1.435669795152493,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.24392177317442348,
+      "gait_smoothness": 0.5076764894533734,
+      "episode_return": -15.700202741274616,
+      "control_cost": 265.68422247704075,
+      "torque_balance": 1.5150318672269028,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.40831427196285813,
+      "gait_smoothness": 0.6118631736631769,
+      "episode_return": 135.1775196217228,
+      "control_cost": 275.04368754091087,
+      "torque_balance": 1.2399112442412539,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.18521962496201602,
+      "gait_smoothness": 0.5818387869760415,
+      "episode_return": -64.25743701231656,
+      "control_cost": 245.71067667248863,
+      "torque_balance": 1.258719297231352,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.13179112246564395,
+      "gait_smoothness": 0.625797572945216,
+      "episode_return": -122.06412986992828,
+      "control_cost": 253.50321117874066,
+      "torque_balance": 0.9606930696680673,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.2949018347233784,
+      "gait_smoothness": 0.7245750830297911,
+      "episode_return": 29.14628707884024,
+      "control_cost": 264.50154190360547,
+      "torque_balance": 0.9784369256037503,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.2644608916364022,
+      "gait_smoothness": 0.67293979158133,
+      "episode_return": 9.35482784945344,
+      "control_cost": 248.6521221468197,
+      "torque_balance": 1.0653655219579763,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Misaligned-PPORandom"
+    },
+    {
+      "forward_velocity": 0.4328491112465367,
+      "gait_smoothness": 0.4290783202174691,
+      "episode_return": 134.9465561263071,
+      "control_cost": 309.67231869432624,
+      "torque_balance": 1.6214813605155283,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Misaligned-PPORandom"
+    }
+  ],
+  "Misaligned-RandomDet": [
+    {
+      "forward_velocity": 0.26046896534486264,
+      "gait_smoothness": 0.7934756923852722,
+      "episode_return": -2.951806889321829,
+      "control_cost": 259.4499268202212,
+      "torque_balance": 0.8214596655662529,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.24532086873926642,
+      "gait_smoothness": 0.731484796218835,
+      "episode_return": -2.311608157806909,
+      "control_cost": 245.9491625814671,
+      "torque_balance": 0.8107439694921508,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.26932794527658055,
+      "gait_smoothness": 0.7367836405066822,
+      "episode_return": 2.485302129401021,
+      "control_cost": 263.739479503547,
+      "torque_balance": 0.8510824213723236,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.2527547260761604,
+      "gait_smoothness": 0.7432452733683822,
+      "episode_return": -12.70669414464743,
+      "control_cost": 261.13900097931634,
+      "torque_balance": 0.8473811611292809,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.181056438268053,
+      "gait_smoothness": 0.7635738539117164,
+      "episode_return": -88.13452154506832,
+      "control_cost": 263.90350990028617,
+      "torque_balance": 0.8057289184652175,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.37167013799033904,
+      "gait_smoothness": 0.7727098849757055,
+      "episode_return": 103.65425970847994,
+      "control_cost": 263.7956784132034,
+      "torque_balance": 0.8593744736376587,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.19937195704527932,
+      "gait_smoothness": 0.8009909972349136,
+      "episode_return": -64.65968825730589,
+      "control_cost": 261.62484521496185,
+      "torque_balance": 0.843295578683308,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.2085673522059052,
+      "gait_smoothness": 0.7675757906523017,
+      "episode_return": -53.35888782893256,
+      "control_cost": 260.56370507318945,
+      "torque_balance": 0.8470484496860043,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.20936932720333812,
+      "gait_smoothness": 0.7638369237386086,
+      "episode_return": -53.80748547457468,
+      "control_cost": 259.8343071027442,
+      "torque_balance": 0.8655645510802875,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.20623414064918041,
+      "gait_smoothness": 0.7640168483706999,
+      "episode_return": -56.32208700464365,
+      "control_cost": 259.6670455269412,
+      "torque_balance": 0.8430226024069591,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.2551828544454202,
+      "gait_smoothness": 0.8053441989417524,
+      "episode_return": -14.886852307307734,
+      "control_cost": 265.2721566965449,
+      "torque_balance": 0.8137973227782836,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.3225571197697553,
+      "gait_smoothness": 0.7427984078168421,
+      "episode_return": 55.67259651582025,
+      "control_cost": 264.1286197666595,
+      "torque_balance": 0.8498686743600141,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.354506841773893,
+      "gait_smoothness": 0.8058706199020411,
+      "episode_return": 84.55009407817955,
+      "control_cost": 267.63131559492217,
+      "torque_balance": 0.8750249600301062,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.1938607133757776,
+      "gait_smoothness": 0.7852855140346378,
+      "episode_return": -76.30563028678394,
+      "control_cost": 266.069672581686,
+      "torque_balance": 0.8653412909910703,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.2442807951320044,
+      "gait_smoothness": 0.7932238447442215,
+      "episode_return": -15.75782369995802,
+      "control_cost": 255.9457587813525,
+      "torque_balance": 0.8598981722566621,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.20133525139361105,
+      "gait_smoothness": 0.7641721202718155,
+      "episode_return": -61.34293600390549,
+      "control_cost": 261.6020754369476,
+      "torque_balance": 0.8088032342721162,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.22554832432663124,
+      "gait_smoothness": 0.7812960898181045,
+      "episode_return": -35.86399118030579,
+      "control_cost": 262.36073458567336,
+      "torque_balance": 0.8270731957088863,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.15817344079104712,
+      "gait_smoothness": 0.7663421052428542,
+      "episode_return": -103.30724656542473,
+      "control_cost": 257.95230838553965,
+      "torque_balance": 0.8335535187823981,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.36440557185207706,
+      "gait_smoothness": 0.7712065284870931,
+      "episode_return": 97.05453783853089,
+      "control_cost": 262.2312895622295,
+      "torque_balance": 0.8890743491177079,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.15738240492141364,
+      "gait_smoothness": 0.7306786467036144,
+      "episode_return": -105.89463309676839,
+      "control_cost": 260.65329805335955,
+      "torque_balance": 0.8220561921926182,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.2175468183309441,
+      "gait_smoothness": 0.7935600648529024,
+      "episode_return": -52.199979405065406,
+      "control_cost": 264.575774758098,
+      "torque_balance": 0.8316928936315886,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.23566895177049726,
+      "gait_smoothness": 0.8001719821812199,
+      "episode_return": -36.50773706386537,
+      "control_cost": 268.0102250815295,
+      "torque_balance": 0.8292333657547498,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.26560252456719796,
+      "gait_smoothness": 0.6787643496999015,
+      "episode_return": 23.955453773767925,
+      "control_cost": 240.44788181269774,
+      "torque_balance": 0.7843788364632747,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.41909385633779545,
+      "gait_smoothness": 0.7723938491818562,
+      "episode_return": 151.87710854626454,
+      "control_cost": 264.3098516974555,
+      "torque_balance": 0.8719513367410179,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.22862509894760394,
+      "gait_smoothness": 0.7433288345031334,
+      "episode_return": -34.63172829705565,
+      "control_cost": 260.72451141063175,
+      "torque_balance": 0.8271341651125865,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.2081038784505075,
+      "gait_smoothness": 0.781615871019837,
+      "episode_return": -50.11887448979209,
+      "control_cost": 255.9682378435646,
+      "torque_balance": 0.841345279816945,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.3077889235565948,
+      "gait_smoothness": 0.7760562756320659,
+      "episode_return": 42.67572820801119,
+      "control_cost": 261.3333583402054,
+      "torque_balance": 0.8304134517406732,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.18166603067603057,
+      "gait_smoothness": 0.8129094841641819,
+      "episode_return": -87.21741622103862,
+      "control_cost": 267.7656374087944,
+      "torque_balance": 0.8553363938309606,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.2726612908911641,
+      "gait_smoothness": 0.7625630029848288,
+      "episode_return": 1.4430141941970254,
+      "control_cost": 265.7680091048315,
+      "torque_balance": 0.8333102952785619,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Misaligned-RandomDet"
+    },
+    {
+      "forward_velocity": 0.21498620090799714,
+      "gait_smoothness": 0.6888953758734312,
+      "episode_return": -15.834882810455891,
+      "control_cost": 229.7673966231029,
+      "torque_balance": 0.7883113245528386,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Misaligned-RandomDet"
+    }
+  ],
+  "Misaligned-DetRandom": [
+    {
+      "forward_velocity": 0.20536147913047917,
+      "gait_smoothness": 0.6077036383129567,
+      "episode_return": -21.410825477481634,
+      "control_cost": 229.7202907116904,
+      "torque_balance": 1.2472735921950513,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.19551069152431177,
+      "gait_smoothness": 0.666538225642482,
+      "episode_return": -61.00563340322666,
+      "control_cost": 257.14548393696094,
+      "torque_balance": 1.2682135689139622,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.24727312529907994,
+      "gait_smoothness": 0.5992416777252869,
+      "episode_return": 27.382465617127316,
+      "control_cost": 219.60450033628203,
+      "torque_balance": 1.2500391164530291,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.15797541043643257,
+      "gait_smoothness": 0.6747477223999467,
+      "episode_return": -81.39018636177829,
+      "control_cost": 241.79950565169418,
+      "torque_balance": 1.286365742980303,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.1967732760252263,
+      "gait_smoothness": 0.7022582212201716,
+      "episode_return": -43.46115027130946,
+      "control_cost": 252.02755315270178,
+      "torque_balance": 1.1848662454715186,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.19544790053845673,
+      "gait_smoothness": 0.6246780496703892,
+      "episode_return": -38.909614738582725,
+      "control_cost": 237.52377774528708,
+      "torque_balance": 1.288126633839872,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.18289136670131675,
+      "gait_smoothness": 0.7596877629924894,
+      "episode_return": -108.92091253244769,
+      "control_cost": 288.5882693050372,
+      "torque_balance": 1.2472287228444812,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.18682669730234602,
+      "gait_smoothness": 0.7653019669751142,
+      "episode_return": -79.26303944917031,
+      "control_cost": 275.75936514957715,
+      "torque_balance": 1.1549132828437374,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.19109615999210644,
+      "gait_smoothness": 0.5706555604312359,
+      "episode_return": -10.3362929492941,
+      "control_cost": 205.33112438015002,
+      "torque_balance": 1.3139834485884971,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.19748496314632313,
+      "gait_smoothness": 0.6302155988796295,
+      "episode_return": -32.67300895387654,
+      "control_cost": 231.34807772790097,
+      "torque_balance": 1.2967158165892778,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.18139906176084353,
+      "gait_smoothness": 0.5895295889795582,
+      "episode_return": -34.48724863037653,
+      "control_cost": 215.44335817556984,
+      "torque_balance": 1.2697453270017545,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.2332584862788094,
+      "gait_smoothness": 0.6046006745063471,
+      "episode_return": 21.466713565241484,
+      "control_cost": 212.59328755132174,
+      "torque_balance": 1.3307068575055014,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.1282568442322476,
+      "gait_smoothness": 0.6758019234245065,
+      "episode_return": -104.52822634078848,
+      "control_cost": 236.95171057754735,
+      "torque_balance": 1.2395016856729166,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.1660955536638418,
+      "gait_smoothness": 0.6131359730130271,
+      "episode_return": -63.56486346282566,
+      "control_cost": 237.5012905505912,
+      "torque_balance": 1.1295765839063554,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.10371934888412158,
+      "gait_smoothness": 0.6780848824739383,
+      "episode_return": -147.3417452791799,
+      "control_cost": 257.64958107819206,
+      "torque_balance": 1.2216771040846852,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.19360062108116638,
+      "gait_smoothness": 0.572467412032142,
+      "episode_return": -16.735123105596614,
+      "control_cost": 209.89658045840434,
+      "torque_balance": 1.3254152700890034,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.20295850643765068,
+      "gait_smoothness": 0.623865381922791,
+      "episode_return": -23.324726535070177,
+      "control_cost": 231.03054539373167,
+      "torque_balance": 1.240461139526798,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.17896082476873165,
+      "gait_smoothness": 0.6199008341907177,
+      "episode_return": -42.768467739248514,
+      "control_cost": 224.3912584883949,
+      "torque_balance": 1.2398321565456034,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.21338536901228156,
+      "gait_smoothness": 0.6094416495742381,
+      "episode_return": -4.481442259139504,
+      "control_cost": 217.5745871625951,
+      "torque_balance": 1.3004259468566024,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.25070046203585233,
+      "gait_smoothness": 0.6975126193172536,
+      "episode_return": 16.338004465382305,
+      "control_cost": 231.13362586494281,
+      "torque_balance": 1.2708846356822516,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.2945590465341244,
+      "gait_smoothness": 0.6061427878679384,
+      "episode_return": 63.40985730509525,
+      "control_cost": 231.413076770334,
+      "torque_balance": 1.2071053934111104,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.1565353382776617,
+      "gait_smoothness": 0.6634022844236995,
+      "episode_return": -100.38006156756633,
+      "control_cost": 253.65016937671473,
+      "torque_balance": 1.252152586407803,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.21415949346145705,
+      "gait_smoothness": 0.6100583938667542,
+      "episode_return": -18.25340468623489,
+      "control_cost": 232.1859859256027,
+      "torque_balance": 1.3103114414945867,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.06398331526790106,
+      "gait_smoothness": 0.6816479892687488,
+      "episode_return": -171.3851096758405,
+      "control_cost": 236.11972804903797,
+      "torque_balance": 1.207390785494233,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.2252746706081673,
+      "gait_smoothness": 0.7694504228049422,
+      "episode_return": -33.1430075468413,
+      "control_cost": 268.33669873764643,
+      "torque_balance": 1.133223962884993,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.19811822122748265,
+      "gait_smoothness": 0.6604054312636637,
+      "episode_return": -54.21252779940912,
+      "control_cost": 256.56943706232323,
+      "torque_balance": 1.1992980765330745,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.21612756756682247,
+      "gait_smoothness": 0.6342074167272699,
+      "episode_return": -13.221123824358749,
+      "control_cost": 232.26551882845817,
+      "torque_balance": 1.2116069258895374,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.19792162178282638,
+      "gait_smoothness": 0.5582518101112479,
+      "episode_return": -9.419969097905549,
+      "control_cost": 209.55983515192048,
+      "torque_balance": 1.2305926694967413,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.20119112433296796,
+      "gait_smoothness": 0.589706630312576,
+      "episode_return": -17.691643649787665,
+      "control_cost": 221.05890513353563,
+      "torque_balance": 1.2970293250623017,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Misaligned-DetRandom"
+    },
+    {
+      "forward_velocity": 0.22366930368447485,
+      "gait_smoothness": 0.6841575610395463,
+      "episode_return": -19.68617682441694,
+      "control_cost": 244.2579780882851,
+      "torque_balance": 1.2541605365905732,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Misaligned-DetRandom"
+    }
+  ],
+  "Misaligned-PPODet": [
+    {
+      "forward_velocity": 0.3032956228882563,
+      "gait_smoothness": 0.6521911126426138,
+      "episode_return": 35.22325420691645,
+      "control_cost": 269.55706674385226,
+      "torque_balance": 0.9524178978516075,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3420149619676358,
+      "gait_smoothness": 0.674878354314821,
+      "episode_return": 82.36427038833375,
+      "control_cost": 257.18486548331134,
+      "torque_balance": 0.8362826433956301,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.35832871561797913,
+      "gait_smoothness": 0.704990641554654,
+      "episode_return": 87.64874177447658,
+      "control_cost": 264.32751512427143,
+      "torque_balance": 0.8422930691044926,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3739454528281154,
+      "gait_smoothness": 0.6913401005339359,
+      "episode_return": 113.6467661426007,
+      "control_cost": 259.09220586131073,
+      "torque_balance": 0.8420126855670509,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3401150145589005,
+      "gait_smoothness": 0.6723186739111787,
+      "episode_return": 80.5556103975921,
+      "control_cost": 256.69832795501617,
+      "torque_balance": 0.8098018753715956,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3949283457400087,
+      "gait_smoothness": 0.6930747861752652,
+      "episode_return": 129.83117056260585,
+      "control_cost": 262.33226511614424,
+      "torque_balance": 0.8210518632125399,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.39629790101130374,
+      "gait_smoothness": 0.7004734083975768,
+      "episode_return": 132.15685653071716,
+      "control_cost": 259.8538381160798,
+      "torque_balance": 0.8472292635828206,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.25226153711392263,
+      "gait_smoothness": 0.6629797004821482,
+      "episode_return": -10.499895955658845,
+      "control_cost": 261.7453252559145,
+      "torque_balance": 0.9442798713889856,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.4100788789185866,
+      "gait_smoothness": 0.6758932748285805,
+      "episode_return": 148.59583531796332,
+      "control_cost": 259.11858843725025,
+      "torque_balance": 0.8228512714482324,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3732982238679675,
+      "gait_smoothness": 0.7434780102001135,
+      "episode_return": 108.69936549718797,
+      "control_cost": 261.09202530559475,
+      "torque_balance": 0.8277368816172204,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.30881397177100456,
+      "gait_smoothness": 0.6742850177303854,
+      "episode_return": 45.436515967174465,
+      "control_cost": 261.24866284692206,
+      "torque_balance": 0.8401772097196459,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.44185634205975943,
+      "gait_smoothness": 0.7509386593354458,
+      "episode_return": 181.34334184672733,
+      "control_cost": 256.89042108758116,
+      "torque_balance": 0.8193807072729972,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3221711660396086,
+      "gait_smoothness": 0.6905106669306351,
+      "episode_return": 62.78840823542018,
+      "control_cost": 258.7046998515866,
+      "torque_balance": 0.8415335161207779,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.46641969789493276,
+      "gait_smoothness": 0.7043315226468678,
+      "episode_return": 202.53773152210505,
+      "control_cost": 259.85652149409646,
+      "torque_balance": 0.8484637873321794,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.4338850634181932,
+      "gait_smoothness": 0.6956783521052081,
+      "episode_return": 172.04295465274555,
+      "control_cost": 260.47735937339183,
+      "torque_balance": 0.853474348484497,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.40517228163173796,
+      "gait_smoothness": 0.7346865937157718,
+      "episode_return": 144.97858597360695,
+      "control_cost": 256.36873741710804,
+      "torque_balance": 0.8454187430627658,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.29184565336440815,
+      "gait_smoothness": 0.6850692747688986,
+      "episode_return": 30.636751533625784,
+      "control_cost": 259.5942155724668,
+      "torque_balance": 0.8368196657684417,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.4050534534992571,
+      "gait_smoothness": 0.6766062660482289,
+      "episode_return": 142.09237279413102,
+      "control_cost": 260.2893080861746,
+      "torque_balance": 0.8149210312386015,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3852910442251497,
+      "gait_smoothness": 0.6896086531110504,
+      "episode_return": 126.87941204999137,
+      "control_cost": 258.22246298751605,
+      "torque_balance": 0.8066787885703801,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.41324868713576995,
+      "gait_smoothness": 0.6770666958250993,
+      "episode_return": 152.2900877582362,
+      "control_cost": 258.69967633022037,
+      "torque_balance": 0.8350036845385234,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.515289260288122,
+      "gait_smoothness": 0.7114233123934924,
+      "episode_return": 251.72511289624487,
+      "control_cost": 259.2930958952783,
+      "torque_balance": 0.8169854585038084,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3694564138800368,
+      "gait_smoothness": 0.6817619362806144,
+      "episode_return": 108.28887156137287,
+      "control_cost": 255.2689541679258,
+      "torque_balance": 0.8004693412360672,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.39663019600144445,
+      "gait_smoothness": 0.7146526963962989,
+      "episode_return": 134.9991057370004,
+      "control_cost": 260.19849359761696,
+      "torque_balance": 0.8277943101686681,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.4816465090395894,
+      "gait_smoothness": 0.7339914218406324,
+      "episode_return": 222.7277427919184,
+      "control_cost": 257.79649447439954,
+      "torque_balance": 0.8563765592980358,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.4190301489416432,
+      "gait_smoothness": 0.6939270450198929,
+      "episode_return": 157.95302491282027,
+      "control_cost": 257.8319862887,
+      "torque_balance": 0.8149414505581205,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.3519551659072413,
+      "gait_smoothness": 0.669814830979569,
+      "episode_return": 89.690572642701,
+      "control_cost": 258.58477251167596,
+      "torque_balance": 0.8533074359159118,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.39017103353094557,
+      "gait_smoothness": 0.7165661093553357,
+      "episode_return": 132.06559353668743,
+      "control_cost": 257.1568643688645,
+      "torque_balance": 0.8379769478148894,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.4685004324114407,
+      "gait_smoothness": 0.6845781008535945,
+      "episode_return": 204.97220172978808,
+      "control_cost": 259.0881685530206,
+      "torque_balance": 0.8531231026658246,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.43823815972720365,
+      "gait_smoothness": 0.7014547680313902,
+      "episode_return": 182.70401370896454,
+      "control_cost": 253.84743954179817,
+      "torque_balance": 0.8426785747079254,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Misaligned-PPODet"
+    },
+    {
+      "forward_velocity": 0.28799628575293285,
+      "gait_smoothness": 0.6918790251745921,
+      "episode_return": 27.647762205706318,
+      "control_cost": 260.99071949440645,
+      "torque_balance": 0.8536004469205872,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Misaligned-PPODet"
+    }
+  ],
+  "Misaligned-DetPPO": [
+    {
+      "forward_velocity": 0.32232449379589206,
+      "gait_smoothness": 0.7118943597751912,
+      "episode_return": 40.31711783502581,
+      "control_cost": 283.72481613136927,
+      "torque_balance": 1.2546759350785304,
+      "episode_length": 1000,
+      "episode": 0,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.3756765926159297,
+      "gait_smoothness": 0.7023398008984069,
+      "episode_return": 96.94079545131828,
+      "control_cost": 280.65654916455236,
+      "torque_balance": 1.1844043054684066,
+      "episode_length": 1000,
+      "episode": 1,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.30171686254943414,
+      "gait_smoothness": 0.7230441386388832,
+      "episode_return": 17.80466077459227,
+      "control_cost": 284.745527701738,
+      "torque_balance": 1.2203288235894316,
+      "episode_length": 1000,
+      "episode": 2,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.27540367036755425,
+      "gait_smoothness": 0.698933201885499,
+      "episode_return": -3.0235145504877705,
+      "control_cost": 279.04851963558866,
+      "torque_balance": 1.244020984636213,
+      "episode_length": 1000,
+      "episode": 3,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.3376120011601499,
+      "gait_smoothness": 0.6746686846410834,
+      "episode_return": 59.195955682990395,
+      "control_cost": 279.8108246298951,
+      "torque_balance": 1.2498733547009553,
+      "episode_length": 1000,
+      "episode": 4,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.2879540318500285,
+      "gait_smoothness": 0.7058847143181781,
+      "episode_return": 8.294432062796533,
+      "control_cost": 278.23450496335437,
+      "torque_balance": 1.2052438642071415,
+      "episode_length": 1000,
+      "episode": 5,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.180872822552077,
+      "gait_smoothness": 0.6785956845921899,
+      "episode_return": -75.14239429758884,
+      "control_cost": 258.14681849043296,
+      "torque_balance": 1.0259011551414838,
+      "episode_length": 1000,
+      "episode": 6,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.2642066997143687,
+      "gait_smoothness": 0.710056932316277,
+      "episode_return": -16.87285418858097,
+      "control_cost": 282.3347987535178,
+      "torque_balance": 1.225191307869668,
+      "episode_length": 1000,
+      "episode": 7,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.3727174774171153,
+      "gait_smoothness": 0.7035825434392756,
+      "episode_return": 89.51626857662853,
+      "control_cost": 283.2744786908181,
+      "torque_balance": 1.2084718279652111,
+      "episode_length": 1000,
+      "episode": 8,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.32124517231084704,
+      "gait_smoothness": 0.7102201274545444,
+      "episode_return": 40.79663440706628,
+      "control_cost": 279.8936071984023,
+      "torque_balance": 1.2362851412091032,
+      "episode_length": 1000,
+      "episode": 9,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.36706377933368844,
+      "gait_smoothness": 0.7113626683281947,
+      "episode_return": 90.815406586586,
+      "control_cost": 280.07747921381645,
+      "torque_balance": 1.2112100862600097,
+      "episode_length": 1000,
+      "episode": 10,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.22464904512616715,
+      "gait_smoothness": 0.699853994003967,
+      "episode_return": -56.4308112152299,
+      "control_cost": 282.69119138219537,
+      "torque_balance": 1.2108451873847563,
+      "episode_length": 1000,
+      "episode": 11,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.2198444241031614,
+      "gait_smoothness": 0.6829350838465501,
+      "episode_return": -44.05047899996519,
+      "control_cost": 265.0656808489628,
+      "torque_balance": 1.036441770165181,
+      "episode_length": 1000,
+      "episode": 12,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.33848520871515,
+      "gait_smoothness": 0.6918893557676052,
+      "episode_return": 55.999431667794994,
+      "control_cost": 282.3404024675546,
+      "torque_balance": 1.1783556505537254,
+      "episode_length": 1000,
+      "episode": 13,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.3348558294206498,
+      "gait_smoothness": 0.7180853846708707,
+      "episode_return": 52.93662606912368,
+      "control_cost": 283.1433686096239,
+      "torque_balance": 1.2173548618342986,
+      "episode_length": 1000,
+      "episode": 14,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.24951645097453096,
+      "gait_smoothness": 0.6965463913858617,
+      "episode_return": -31.810909853207118,
+      "control_cost": 284.2337497086205,
+      "torque_balance": 1.2226246986139857,
+      "episode_length": 1000,
+      "episode": 15,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.39119427464744283,
+      "gait_smoothness": 0.7338111751093611,
+      "episode_return": 108.54449925378242,
+      "control_cost": 280.8649581503245,
+      "torque_balance": 1.2769028985489759,
+      "episode_length": 1000,
+      "episode": 16,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.26366125824355585,
+      "gait_smoothness": 0.709255957335703,
+      "episode_return": -19.953814607331942,
+      "control_cost": 282.1521025040318,
+      "torque_balance": 1.1786947473384901,
+      "episode_length": 1000,
+      "episode": 17,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.28469503995960793,
+      "gait_smoothness": 0.6974580976678717,
+      "episode_return": 1.6174617650648313,
+      "control_cost": 280.52261533660135,
+      "torque_balance": 1.1841134663663067,
+      "episode_length": 1000,
+      "episode": 18,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.3032384279264264,
+      "gait_smoothness": 0.7142848903225426,
+      "episode_return": 19.482846918680227,
+      "control_cost": 284.5157787778751,
+      "torque_balance": 1.2202133944520743,
+      "episode_length": 1000,
+      "episode": 19,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.3422703800064003,
+      "gait_smoothness": 0.7057522578373194,
+      "episode_return": 59.05994150467084,
+      "control_cost": 284.7191048916933,
+      "torque_balance": 1.2512515420517376,
+      "episode_length": 1000,
+      "episode": 20,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.2379590539981724,
+      "gait_smoothness": 0.6906215147589573,
+      "episode_return": -44.93638845730539,
+      "control_cost": 285.33767106677004,
+      "torque_balance": 1.2214512098804362,
+      "episode_length": 1000,
+      "episode": 21,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.2916908816130115,
+      "gait_smoothness": 0.6821499902176541,
+      "episode_return": 14.377845650221854,
+      "control_cost": 278.1147806424636,
+      "torque_balance": 1.2822923152765524,
+      "episode_length": 1000,
+      "episode": 22,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.30467651526153056,
+      "gait_smoothness": 0.6905544400219793,
+      "episode_return": 34.90036151334354,
+      "control_cost": 269.7845027338043,
+      "torque_balance": 1.1002287047345298,
+      "episode_length": 1000,
+      "episode": 23,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.21449449784669236,
+      "gait_smoothness": 0.712194767499696,
+      "episode_return": -68.6462885415441,
+      "control_cost": 284.20190611584724,
+      "torque_balance": 1.2513397637818067,
+      "episode_length": 1000,
+      "episode": 24,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.27732117578405585,
+      "gait_smoothness": 0.6800952323340317,
+      "episode_return": -6.793392516977184,
+      "control_cost": 282.70778284793505,
+      "torque_balance": 1.2500930569421327,
+      "episode_length": 1000,
+      "episode": 25,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.3563321793819504,
+      "gait_smoothness": 0.6822847786763079,
+      "episode_return": 77.69276141957806,
+      "control_cost": 280.43365247974987,
+      "torque_balance": 1.2048790400897367,
+      "episode_length": 1000,
+      "episode": 26,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.29835038680531195,
+      "gait_smoothness": 0.7126562579453856,
+      "episode_return": 16.612922098875206,
+      "control_cost": 281.17176145524553,
+      "torque_balance": 1.2288573607611792,
+      "episode_length": 1000,
+      "episode": 27,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.2821791593054662,
+      "gait_smoothness": 0.6834531920722536,
+      "episode_return": 1.5141565264583783,
+      "control_cost": 280.7790922417998,
+      "torque_balance": 1.1958044624405786,
+      "episode_length": 1000,
+      "episode": 28,
+      "condition": "Misaligned-DetPPO"
+    },
+    {
+      "forward_velocity": 0.19330190994562582,
+      "gait_smoothness": 0.6583470395409062,
+      "episode_return": -74.05734579107953,
+      "control_cost": 269.8233872464617,
+      "torque_balance": 1.0652204778634948,
+      "episode_length": 1000,
+      "episode": 29,
+      "condition": "Misaligned-DetPPO"
+    }
+  ]
+}
